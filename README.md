@@ -1,9 +1,5 @@
 # ZUPKE - The Open Source Religion
 
-Sure, here’s the translation to English:
-
----
-
 **ZUPKE is the only religion originating from the upper universe**
 
 ZUPKE is suitable for people with the following characteristics:
